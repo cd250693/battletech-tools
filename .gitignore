@@ -55,3 +55,5 @@ docs/_build/
 
 # PyBuilder
 target/
+/mech-creator/Tkinter/Hello-again.py
+/mech-creator/Tkinter/UI-hello-world.py
